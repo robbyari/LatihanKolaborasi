@@ -1,2 +1,4 @@
 Hello world
 Hello kotlin
+
+Update squash 1
